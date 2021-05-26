@@ -1,3 +1,7 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This script stems from the Packing Generation Project. 
+% The reference and a link to the Github page can be found in the README.md.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all;
 
 folder = '..\..\_Release';
@@ -25,7 +29,7 @@ packingFilePath = fullfile(folder, 'packing.xyzd');
 % (they are linearly scaled at the beginning of generation by a small value (scaling factor) 
 % and this value increases during generation, but usually not until 1). 
 % The final packing (packing.xyzd) will store correct particle centers and the ORIGINAL diameters 
-% (not the ones scaled with the final scaling factor)—for historical reasons. 
+% (not the ones scaled with the final scaling factor)â€”for historical reasons. 
 % To get the final scaling factor and correct final diameters, 
 % you have to use the Final Porosity field from the packing.nfo. 
 % The equation for the final scaling factor is 
