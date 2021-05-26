@@ -4,6 +4,7 @@ Created on Mon Mar 15 19:20:51 2021
 
 @author: Carl Fredrik Berg, 2019
 Some sections of the original script are removed as they were not needed for the invasion.
+The reference to the paper that the script stems from can be found in the README.md.
 """
 import numpy as np
 import time
