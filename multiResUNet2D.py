@@ -3,7 +3,10 @@
 Created on Sat May  8 14:27:13 2021
 
 @author: Ådne
-Original source is referenced above.
+This is i a modified version of the original 2D MultiResUNet implementation, which can be found on
+https://github.com/nibtehaz/MultiResUNet/blob/master/MultiResUNet.py.
+
+The reference can be found in the README.md.
 """
 from keras.layers import Input, Conv2D, MaxPooling2D, Conv2DTranspose, concatenate, BatchNormalization, Activation, add
 from keras.models import Model, model_from_json
