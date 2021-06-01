@@ -1,11 +1,16 @@
 # FluidFlowSegmentation
-These are some scripts that accompany the master thesis Vikdal (2021).
+These repository contains scripts that accompany the master thesis Vikdal (2021).
+
+**Master Project**
 
 The *morphologicalInvasion.py* script is written by Carl Fredrik Berg and made in the thesis Berg et.al (2020). Some parts of the original script has been removed as they were not needed, and some minor adjustments to fit the packing data in this project has been made.
 
 The *ReadPackingScript.m* is written by Baranau and Tallarek (2014) and is also available on this [Github page](https://github.com/VasiliBaranov/packing-generation), along with the rest of the Packing Generation Project.
 
 The *multiResUNet2D.py* is a slight modification of the original implementaton found in this [Github page](https://github.com/nibtehaz/MultiResUNet), and published in  Ibtehaz and Rahman (2020).
+
+**Specialization Project**
+
 
 
 References:
