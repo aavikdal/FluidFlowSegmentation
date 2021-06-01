@@ -1,3 +1,8 @@
+'''
+The implementation of U-Net and its training is inspired by this U-Net tutorial: 
+https://github.com/nikhilroxtomar/Multiclass-Segmentation-in-Unet
+'''
+
 # Imports
 from tensorflow.keras.layers import Input, Conv2D, BatchNormalization, Activation, MaxPool2D, UpSampling2D, Concatenate
 from tensorflow.keras.models import Model
