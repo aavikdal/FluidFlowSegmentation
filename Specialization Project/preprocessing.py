@@ -1,3 +1,6 @@
+'''
+Splits images and changes the color values
+'''
 # Imports
 import cv2
 import numpy as np 
