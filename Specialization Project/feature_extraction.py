@@ -1,3 +1,6 @@
+'''
+The feature extraction process is influenced by this Python for microscopists tutorial series: https://github.com/bnsreenu/python_for_microscopists
+'''
 # Imports
 import numpy as np
 import cv2
