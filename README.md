@@ -23,4 +23,4 @@ Berg, C.F., Slotte, P.A., Khanamiri, H.H. (2020). Geometrically derived efficien
 
 Ibtehaz, N., Rahman, M.S. (2020). MultiResUNet: Rethinking the U-Net architecture for multimodal biomedical image segmentation. *Neural Networks 121*, 74-87. https://doi.org/10.1016/j.neunet.2019.08.025
 
-Vikdal, Å.Å. (2021). *Segmentation of phases in images of fluid flow using deep learning*. Norges teknisk-naturitenskaplige universitet.
+Vikdal, Å.Å. (2021). *Segmentation of phases in images of fluid flow using deep learning*. Norges teknisk-naturvitenskaplige universitet.
