@@ -5,13 +5,15 @@ These repository contains scripts that accompany the master thesis Vikdal (2021)
 
 The *morphologicalInvasion.py* script is written by Carl Fredrik Berg and made in the thesis Berg et.al (2020). Some parts of the original script has been removed as they were not needed, and some minor adjustments to fit the packing data in this project has been made.
 
-The *ReadPackingScript.m* is written by Baranau and Tallarek (2014) and is also available on this [Github page](https://github.com/VasiliBaranov/packing-generation), along with the rest of the Packing Generation Project.
+The *ReadPackingScript.m* is from Baranau and Tallarek (2014) and is also available on this [Github page](https://github.com/VasiliBaranov/packing-generation), along with the rest of the Packing Generation Project.
 
 The *multiResUNet2D.py* is a slight modification of the original implementaton found in this [Github page](https://github.com/nibtehaz/MultiResUNet), and published in  Ibtehaz and Rahman (2020).
 
 **Specialization Project**
 
+The implementation of U-Net and its training process is inspired and influenced by this [U-Net tutorial](https://github.com/nikhilroxtomar/Multiclass-Segmentation-in-Unet). This includes *UNet.py*, *prepare_data_unet.py* and *train_unet.py*.
 
+The feature extraction process implemented in *feature_extraction.py* is influenced by this [Python for microsoft tutorial series](https://github.com/bnsreenu/python_for_microscopists).
 
 References:
 
